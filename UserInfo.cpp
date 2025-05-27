@@ -22,7 +22,7 @@ namespace trainsys {
     }
 
     UserInfo &UserInfo::operator =(const UserInfo &rhs) {
-        /* Question */
+        /* Question *
     }
 
     bool UserInfo::operator ==(const UserInfo &rhs) const {
